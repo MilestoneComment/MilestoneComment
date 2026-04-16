@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilestoneComment
 - 👀 I’m interested in BIM Coordination
-- 🌱 I’m currently learning Revit@Dynamo and Python
+- 🌱 I’m currently learning Python and AI Workflows
 - 💞️ I’m looking to collaborate on Revit and Python Projects 
 - 📫 How to reach me (you can reach me here)
 <!---
