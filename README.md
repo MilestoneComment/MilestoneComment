@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MilestoneComment
-- 👀 I’m interested in BIM Coordination
+- 👀 I’m an Electrical Designer and work in BIM Management
+- 👀 I’m obssesed with designing and making new things 
 - 🌱 I’m currently learning Python and AI Workflows
 - 💞️ I’m looking to collaborate on Revit and Python Projects 
 - 📫 How to reach me (you can reach me here)
